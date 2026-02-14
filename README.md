@@ -1,2 +1,2 @@
-# enkins-sample-app
+# jenkins-sample-app
 Sample application for Jenkins exercise
